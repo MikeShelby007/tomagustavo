@@ -1,0 +1,47 @@
+.azul {
+    background-color: blue;
+}
+
+.vermelho {
+    background-color: rgb(255, 0, 0);
+}
+
+.transparente {
+    background-color: rgba(0, 0, 0, 0);
+    border-color:rgba(240, 248, 255, 0);
+}
+
+.bg-custom {
+    background-color:rgb(255, 252, 230);
+}
+
+.navbar-bg {
+    background-color: rgb(253, 248, 210);
+}
+
+.footer-bg {
+    background-color: rgb(240, 234, 194);
+}
+
+.footerbackground {
+    width: 100%;
+   height: auto;
+   padding: 0;
+   margin: 0;
+   border: 0;
+   display: block;
+}
+
+.pesquisar-custom {
+    border: 0px;
+    transition: 99999999999s;
+}
+
+.T999 {
+    transition: 99999999999s;
+}
+
+.pagamentos {
+    width: 50px;
+    height: 50px;
+}
